@@ -1,0 +1,2 @@
+# Colab_ScaledYOLOv4
+使用Colab運行PyTorch ScaledYOLOv4範例，包括COCO資料集預訓練參數及自定義資料集。
